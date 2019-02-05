@@ -1,0 +1,8 @@
+{
+    "documentation": "https://github.com/adobe/brackets/wiki/User-Key-Bindings",
+    "overrides": {
+        "Alt-Shift-1": "cmd.splitViewNone",
+        "Alt-Shift-2": "cmd.splitViewVertical",
+        "Alt-Shift-8": "cmd.splitViewHorizontal"
+    }
+}

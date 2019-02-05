@@ -1,0 +1,20 @@
+{
+    "fonts.fontSize": "17px",
+    "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ 明朝, 'MS Mincho', monospace",
+    "brackets-eslint.gutterMarks": true,
+    "brackets-eslint.useLocalESLint": false,
+    "themes.theme": "dark-theme",
+    "noDistractions": false,
+    "vimderbar.enabled": true,
+    "linting.collapsed": true,
+    "dnbard.documents-toolbar.icons": true,
+    "dnbard.documents-toolbar.smallIcons": false,
+    "dnbard.documents-toolbar.tooltip": false,
+    "dnbard.documents-toolbar.close_left": false,
+    "dnbard.documents-toolbar.workingFiles": true,
+    "dnbard.documents-toolbar.brackets_font": true,
+    "dnbard.documents-toolbar.grayscaleIcons": false,
+    "dnbard.documents-toolbar.showCloseButton": true,
+    "bb.beautify.hideDialog": false,
+    "livedev.multibrowser": false
+}
