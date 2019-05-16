@@ -1,5 +1,5 @@
 {
-    "fonts.fontSize": "17px",
+    "fonts.fontSize": "15px",
     "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ 明朝, 'MS Mincho', monospace",
     "brackets-eslint.gutterMarks": true,
     "brackets-eslint.useLocalESLint": false,
@@ -16,5 +16,6 @@
     "dnbard.documents-toolbar.grayscaleIcons": false,
     "dnbard.documents-toolbar.showCloseButton": true,
     "bb.beautify.hideDialog": false,
-    "livedev.multibrowser": false
+    "livedev.multibrowser": false,
+    "spaceUnits": 2
 }
